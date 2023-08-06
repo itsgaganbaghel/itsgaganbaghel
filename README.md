@@ -28,16 +28,6 @@
 <hr>
 
 
-[![dhruv9316's GitHub | Stats](https://stats.quine.sh/dhruv9316/github?theme=dark)](https://quine.sh)
-
-
-[![dhruv9316's GitHub | Languages](https://stats.quine.sh/dhruv9316/languages-over-time?theme=dark)](https://quine.sh)
-
-[![dhruv9316's GitHub | Topics](https://stats.quine.sh/dhruv9316/topics-over-time?theme=dark)](https://quine.sh)
-
-[![dhruv9316's Stack Overflow | Stats](https://stats.quine.sh/dhruv9316/stack-overflow?theme=dark)](https://quine.sh)
-
-
 
 
 ## 📟 GitHub Stats
@@ -75,7 +65,7 @@
 <!-- </a> -->
 <!-- <a href = "https://www.jetbrains.com/idea">
 <img src="https://dileepabandara.github.io/public-images/gh-rm-t/intellij_idea.png" width="50"/>
-</a> --> -->
+</a> -->
 
 <a href = "https://github.com">
 <img src="https://dileepabandara.github.io/public-images/gh-rm-t/github.png" width="50"/>
